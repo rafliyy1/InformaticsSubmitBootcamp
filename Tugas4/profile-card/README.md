@@ -2,13 +2,13 @@
 
 Tugas Individu Week 4 - React Fundamental
 
-Aplikasi web sederhana berbasis React (Vite) yang menampilkan Header dan
-beberapa Kartu Profil. Setiap kartu memiliki tombol Like interaktif
+Aplikasi web sederhana berbasis React yang menampilkan Header dan
+beberapa kartu profil. Setiap kartu memiliki tombol Like interaktif
 menggunakan useState.
 
 ## Fitur
 
-- Reusable component (Header dan Card)
+- Header dan Card
 - Pengiriman data dinamis dengan Props
 - Tombol Like interaktif dengan useState
 - Multiple cards dengan data berbeda
@@ -17,11 +17,11 @@ menggunakan useState.
 
 1. Clone repository ini:
 
-   git clone https://github.com/USERNAME_KAMU/profile-card.git
+   git clone https://github.com/rafliyy1/InformaticsSubmitBootcamp.git
 
 2. Masuk ke folder project:
 
-   cd profile-card
+   cd InformaticsSubmitBootcamp/Tugas4/profile-card
 
 3. Install dependencies:
 
@@ -31,7 +31,7 @@ menggunakan useState.
 
    npm run dev
 
-5. Buka link yang muncul di terminal (biasanya http://localhost:5173)
+5. Buka link yang muncul di terminal
 
 ## Dibuat oleh
 
